@@ -15,7 +15,7 @@ This repository contains the code for the Podcast Transcription App, which allow
 ### Prerequisites
 
 - Python 3.7 or higher
-- Streamlit: [Installation Guide](https://docs.streamlit.io/library/getting-started/installation)
+- Streamlit: [Installation Guide](https://docs.streamlit.io/get-started/installation)
 - Requests: Install with `pip install requests`
 - Dotenv: Install with `pip install python-dotenv`
 
