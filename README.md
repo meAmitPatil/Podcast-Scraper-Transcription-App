@@ -25,9 +25,9 @@ This repository contains the code for the Podcast Transcription App, which allow
    git clone https://github.com/yourusername/podcast-transcription-app.git
    cd podcast-transcription-app
 2. Create a .env file in the root directory and add your Spotify and Groq API credentials:
-    SPOTIFY_CLIENT_ID=your_spotify_client_id
-    SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-    GROQ_API_KEY=your_groq_api_key
+    - SPOTIFY_CLIENT_ID=your_spotify_client_id
+    - SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+    - GROQ_API_KEY=your_groq_api_key
 3.  Install dependencies:
     pip install -r requirements.txt
 4.  Run the app:
